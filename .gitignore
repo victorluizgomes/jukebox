@@ -4,14 +4,12 @@
 # Log file
 *.log
 
-# Song files
-*.mp3
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 *.zip
